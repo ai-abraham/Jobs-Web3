@@ -18,7 +18,7 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Solana Jobs](https://jobs.solana.com)
 - [Wellfound](https://wellfound.com/startups/industry/blockchain-cryptocurrency-2)
 - [Web3.Career](https://web3.career/remote-jobs)
-
+- [Raretalent by Rareskill](https://raretalent.xyz)
 
 
 
@@ -32,7 +32,7 @@ Curated list for find Web3 &amp; Crypto jobs
 
 [Newsletters](https://web3idn.substack.com/)
 
-[Website](https://www.w3idn.xyz/)
+[Website](https://www.web30.my.id/)
 
 [Medium](https://medium.com/@web3id)
 
