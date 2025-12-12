@@ -19,6 +19,7 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Wellfound](https://wellfound.com/startups/industry/blockchain-cryptocurrency-2)
 - [Web3.Career](https://web3.career/remote-jobs)
 - [Raretalent by Rareskill](https://raretalent.xyz)
+- [Base X Hirechain](https://base.hirechain.io)
 
 
 
