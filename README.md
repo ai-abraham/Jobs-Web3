@@ -20,7 +20,23 @@ Curated list for find Web3 &amp; Crypto jobs
 - [Web3.Career](https://web3.career/remote-jobs)
 - [Raretalent by Rareskill](https://raretalent.xyz)
 - [Base X Hirechain](https://base.hirechain.io)
-
+- [Avax Jobs](https://jobs.avax.network/jobs?)
+- [Ethereum job board](https://www.ethereumjobboard.com/jobs)
+- [Midnight Network](https://midnight.network/careers)
+- [Block Career](https://block.xyz/careers/jobs?)
+- [Crypto Career](https://www.crypto-careers.com/)
+- [Jobstash](https://jobstash.xyz/jobs)
+- [Remote3](https://www.remote3.co)
+- [Dragonfly](https://jobs.dragonfly.xyz/jobs)
+- [BeInCrypto](https://beincrypto.com/jobs/)
+- [0x Career](https://0x.org/careers#open-positions)
+- [Soldeed](https://www.soldeed.xyz/)
+- [DeFi jobs](https://defi-jobs.xyz)
+- [Jobs on Chain](https://jobsonchain.xyz/)
+- [WenWork](https://wenwork.com/)
+- [StarkNet Career](https://www.starknet.org/careers)
+- [Sidechain](https://www.sidechain.so/)
+  
 
 
 
